@@ -1,3 +1,8 @@
+# Emoji for Github 
+### Markdown
+Made a Git repo from this [Gist](https://gist.github.com/rxaviers/7360908)
+Give Stars
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
